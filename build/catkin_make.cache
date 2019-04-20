@@ -1,0 +1,2 @@
+asr
+-DCATKIN_DEVEL_PREFIX=/home/ls/catkin_wenwen/devel -DCMAKE_INSTALL_PREFIX=/home/ls/catkin_wenwen/install -G Unix Makefiles

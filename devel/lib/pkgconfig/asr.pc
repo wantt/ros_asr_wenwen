@@ -1,0 +1,8 @@
+prefix=/home/ls/catkin_wenwen/devel
+
+Name: asr
+Description: Description of asr
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ls/catkin_wenwen/devel/lib 
+Requires: 
